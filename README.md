@@ -1,6 +1,6 @@
 Bluetooth Low Energy with Android and Arduino
 ========================================================
-Chapter 12: Project: Remote Control LED
+Chapter 14: Project: Remote Control LED
 ---------------------------------------------
 
 These are **complete downloadable code examples** from my book, _Bluetooth Low Energy with Android and Arduino_ (<url>).  The book teaches how to make Bluetooth Low Energy devices talk using Arduino in Java and Android in C++.
